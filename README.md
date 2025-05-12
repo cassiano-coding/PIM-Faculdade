@@ -3,6 +3,18 @@
 Este é um sistema simples de gerenciamento de cursos online, desenvolvido em Python. 
 Ele permite que os usuários se cadastrem, façam login, assistam a vídeos de cursos e concluam os cursos disponíveis.
 
+## Trabalho de Conclusão de Semestre - PIM (UNIP)
+
+Este trabalho foi elaborado em grupo para a faculdade UNIP.
+Para conclusão dos trabalhos do semestre.
+Alunos que participaram do trabalho:
+ 1. Pedro Cassiano 
+ 2. Gustavo Melo
+ 3. Letícia
+ 4. Pedro Santana
+ 5. Rafael
+ 6. Rick
+
 ## Funcionalidades
 
 - **Cadastro de Usuários**: Permite que novos usuários se cadastrem no sistema.
@@ -25,12 +37,11 @@ Ele permite que os usuários se cadastrem, façam login, assistam a vídeos de c
 2. Clone este repositório ou baixe os arquivos do projeto.
 3. Navegue até o diretório do projeto no terminal.
 4. Execute o seguinte comando:
-  ```bash
+
    python index.py
 
 ## Créditos e Agradecimentos
 
-1. <a href="https://www.youtube.com/@tutoriais01" target="_blank" rel="noopener noreferrer">Portal Hugo Cursos</a>
-2. <a href="https://www.youtube.com/@CertificadoCursosOnline" target="_blank" rel="noopener noreferrer">Certificado Cursos Online</a>
-3. <a href="https://www.youtube.com/@DarlanEvandro" target="_blank" rel="noopener noreferrer">Darlan Evandro</a>
- 
+1. [Portal Hugo Cursos](https://www.youtube.com/@tutoriais01)
+2. [Certificado Cursos Online](https://www.youtube.com/@CertificadoCursosOnline)
+3. [Darlan Evandro](https://www.youtube.com/@DarlanEvandro)
