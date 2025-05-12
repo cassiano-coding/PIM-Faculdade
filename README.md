@@ -47,8 +47,7 @@ Elaborado em grupo para avaliação final do semestre.
 3. 📁 Navegue até o diretório do projeto no terminal.  
 4. ▶️ Execute o comando abaixo:
 
-```bash
-python index.py
+    python index.py
 
 
 ## Créditos e Agradecimentos
